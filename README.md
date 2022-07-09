@@ -1,16 +1,7 @@
 # flutter_notes
 
-A new Flutter project.
+Projeto para treinar Flutter e Sql
 
-## Getting Started
+![flutter](https://user-images.githubusercontent.com/67665152/178120765-74f43ed0-bb73-4740-a3fe-5c28a4467677.PNG)
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
